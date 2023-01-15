@@ -1,1 +1,1 @@
-# practice-for-C
+# Practice for C
